@@ -30,16 +30,16 @@ If you have any feedback, please reach out to me at rithik.tripathi7@gmail.com
 
 ## Quick Glimpse:
 
-
-<img width="915" alt="image" src="![1](https://user-images.githubusercontent.com/63400981/205502246-f54fddc3-cf6b-4c53-98e9-1dbb4067e293.jpg)">
-
-<img width="915" alt="image" src="![2](https://user-images.githubusercontent.com/63400981/205502252-e7cf1687-23e9-472b-b3a0-2e83bd808849.jpg)">
-
-<img width="915" alt="image" src="![3](https://user-images.githubusercontent.com/63400981/205502255-21ec7bd9-bdd8-4648-a8a8-86e3e5d3b7c2.jpg)">
-
-<img width="915" alt="image" src="![4](https://user-images.githubusercontent.com/63400981/205502261-7c281624-ad81-49b1-8eef-ad1879f41e86.jpg)">
-
-<img width="915" alt="image" src="![5](https://user-images.githubusercontent.com/63400981/205502268-839815b5-470c-4e00-b4a5-1e9946019b4b.jpg)">
+### Overview
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/63400981/205502246-f54fddc3-cf6b-4c53-98e9-1dbb4067e293.jpg">
+### Opportunities to Invest
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/63400981/205502252-e7cf1687-23e9-472b-b3a0-2e83bd808849.jpg">
+### Competitors Analysis
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/63400981/205502255-21ec7bd9-bdd8-4648-a8a8-86e3e5d3b7c2.jpg">
+### Customer / Target audience Analysis
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/63400981/205502261-7c281624-ad81-49b1-8eef-ad1879f41e86.jpg">
+### Restaurant Performance
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/63400981/205502268-839815b5-470c-4e00-b4a5-1e9946019b4b.jpg">
 
 
 
