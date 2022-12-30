@@ -1,7 +1,7 @@
 ## Power-Bi-Restaurant-Rating-Analysis
 
 
-Performed Visualization & Analysis with Database having information of Fulfilment center, Meal Services Provided, Weekly Demand Data
+Performed Visualization & Analysis with Database having performance of Owners multiple restaurants across country.
 
 
 ## Features
